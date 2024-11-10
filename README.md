@@ -10,4 +10,3 @@ Demonstration of SAGA Orchestration Design Pattern using Spring Boot and Kafka
 ### Events
 ![image](https://github.com/user-attachments/assets/1afbb041-1657-47bf-9357-223518fab9db)
 
-# saga
